@@ -1,7 +1,6 @@
 <h1 align="center">
 	<img width="100" src="media/image.jpg" alt="module-name">
 	<br>
-	<br>
 	<img width="560" src="media/image.gif" alt="module-name">
 	<br>
 	<br>
@@ -14,11 +13,11 @@
 ## Install
 
 ```sh
-$ npm install --global
+$ npm install --global <package>
 ```
 __OR__
 ```sh
-$ sudo npm install --global
+$ sudo npm install --global <package>
 ```
 
 ## Usage
@@ -41,4 +40,4 @@ OPTIONAL
 
 ## License
 
-MIT &copy; [Rishi Giri](http://rishigiri.com)
+MIT &copy; [Your name](website)
